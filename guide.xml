@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20210216003500 +0000" stop="20210216015000 +0000" channel="Globo HD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Jeiza comanda invasão no morro do Beco e troca tiros com Bibi.(n)</desc>
+  </programme>
+  <programme start="20210216015000 +0000" stop="20210216025500 +0000" channel="Globo HD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 20ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210216025500 +0000" stop="20210216043000 +0000" channel="Globo HD">
+    <title lang="pt">Tela Quente - Deadpool</title>
+    <title lang="en">Deadpool</title>
+    <desc lang="pt">Ex-militar e mercenário, Wade Wilson é diagnosticado com câncer em estado terminal, porém encontra uma possibilidade de cura em uma sinistra experiência científica. Recuperado, com poderes e um incomum senso de humor, ele torna-se Deadpool e busca vingança contra o homem que destruiu sua vida.(n)</desc>
+  </programme>
+  <programme start="20210216043000 +0000" stop="20210216051500 +0000" channel="Globo HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210216051500 +0000" stop="20210216055500 +0000" channel="Globo HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Com a folia suspensa pela pandemia, João Roberto Kelly revive a irreverência de outros carnavais. Papo com o autor de marchinhas que atravessam o tempo.(n)</desc>
+  </programme>
+  <programme start="20210216055500 +0000" stop="20210216070000 +0000" channel="Globo HD">
+    <title lang="pt">Corujão I - Absolutamente Impossível</title>
+    <title lang="en">Absolutely Anything</title>
+    <desc lang="pt">Neil, um professor desiludido, vê sua vida mudar após ser atropelado por uma van e atingido por um raio alienígena que lhe dá poderes mágicos. Com eles, Neil pode fazer tudo que quiser: desde calar a boca de seus alunos até ressuscitar pessoas! O problema é saber utilizar as palavras certas para conseguir o que quer e o uso dessas novas habilidades vai gerar uma série de confusões.(n)</desc>
+  </programme>
+  <programme start="20210216070000 +0000" stop="20210216090000 +0000" channel="Globo HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210216090000 +0000" stop="20210216113000 +0000" channel="Globo HD">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia. Além de trânsito e tempo, o telejornal mostra empreendedores, gente que dá emprego, agências que precisam de trabalhadores. Os repórteres estão nas feiras e nos mercados ouvindo o povo e especialistas que dão dicas de como comprar bem e ter uma vida mais saudável. Todos os dias, as notícias do esporte em Pernambuco têm espaço garantido. De segunda a sexta, às 6h.(n)</desc>
+  </programme>
+  <programme start="20210216113000 +0000" stop="20210216123000 +0000" channel="Globo HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210216123000 +0000" stop="20210216134500 +0000" channel="Globo HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210216134500 +0000" stop="20210216150000 +0000" channel="Globo HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210216150000 +0000" stop="20210216160000 +0000" channel="Globo HD">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">O que aconteceu de mais importante na manhã está no NE1. Um bom tempo do telejornal é dedicado à vida das comunidades: a solução de problemas é cobrada no Calendário, as festas, os eventos e também quem quer ser famoso. No quadro "É Pipoco", novos talentos das comunidades podem mostrar o trabalho. Educação e saúde também fazem parte do conteúdo do telejornal. De segunda a sábado, ao meio-dia.(n)</desc>
+  </programme>
+  <programme start="20210216160000 +0000" stop="20210216162500 +0000" channel="Globo HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão. O vaivém de atletas, o sobe-e-desce na classificação, as loucuras dos torcedores para demonstrar o amor pelo clube... Tudo interessa à pauta do GE.(n)</desc>
+  </programme>
+  <programme start="20210216162500 +0000" stop="20210216180000 +0000" channel="Globo HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210216180000 +0000" stop="20210216194000 +0000" channel="Globo HD">
+    <title lang="pt">Sessão da Tarde - As Férias do Pequeno Nicolau</title>
+    <title lang="en">Les Vacances du Petit Nicolas</title>
+    <desc lang="pt">Termina o ano letivo. Nicolau, seus pais e a avó viajam para o litoral com o objetivo de aproveitar ao máximo o verão. Na praia, o menino faz novos amigos e conhece uma garota, Isabelle, que ele acredita ser sua futura esposa.(n)</desc>
+  </programme>
+  <programme start="20210216194000 +0000" stop="20210216205500 +0000" channel="Globo HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210216205500 +0000" stop="20210216212500 +0000" channel="Globo HD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Depois de decepção amorosa, Karina desafia Cobra: 'Eu quero que você lute comigo'.(n)</desc>
+  </programme>
+  <programme start="20210216212500 +0000" stop="20210216221000 +0000" channel="Globo HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">Alberto é encontrado inconsciente e Guiomar se desespera.(n)</desc>
+  </programme>
+  <programme start="20210216221000 +0000" stop="20210216224000 +0000" channel="Globo HD">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados. Ao vivo, os repórteres mostram os eventos da noite e o telespectador fica sabendo como está a volta para casa de ônibus, de carro ou de metrô. De segunda a sábado, após a Novela I.(n)</desc>
+  </programme>
+  <programme start="20210216224000 +0000" stop="20210216233000 +0000" channel="Globo HD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">Guido enfrenta Vitória e se emociona ao reencontrar Shirlei.(n)</desc>
+  </programme>
+  <programme start="20210216233000 +0000" stop="20210217004000 +0000" channel="Globo HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>
